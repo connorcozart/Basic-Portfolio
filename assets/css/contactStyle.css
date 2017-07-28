@@ -24,6 +24,10 @@ footer {
 	width: auto;
 }
 
+label {
+	font: sans-serif;
+}
+
 
 .facebook {
 	width: 75px;
@@ -47,6 +51,7 @@ footer {
 	width: 40%;
 	height: 350px;
 	margin-left: 10%;
+
 }
 
 .outlineBox {
@@ -124,4 +129,8 @@ footer {
 	color: #0099cc;
 }
 
+.contactForm {
+	margin-left: 10px;
+}
 
+ 
